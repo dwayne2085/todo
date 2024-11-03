@@ -1,0 +1,27 @@
+#todo-text {
+height: 30px;
+border-radius: 10px;
+}
+button {
+  height: 30px;
+  background-color: rgb(25, 127, 161);
+  border: none;
+  color: white;
+  width: 50px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  cursor: pointer;
+  
+}
+
+button:hover {
+  background-color:rgba(25, 127, 161,0.7);
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.form {
+  display: flex;
+}
